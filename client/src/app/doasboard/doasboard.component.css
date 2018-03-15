@@ -1,0 +1,15 @@
+.swm-left-w3ls[_ngcontent-c2], .swm-right-w3ls[_ngcontent-c2] {
+    background: #ffffff26;
+    padding: 1em 2em 3em;
+    flex-basis: 38%;
+    -webkit-flex-basis: 48%;
+    -webkit-box-shadow: -2px 7px 37px 8px rgba(0,0,0,0.52);
+    -moz-box-shadow: -2px 7px 37px 8px rgba(0,0,0,0.52);
+    box-shadow: -2px 7px 37px 8px rgba(0,0,0,0.52);
+    width: 50% !important;
+}
+
+h1.header-w3ls[_ngcontent-c2] {
+    letter-spacing: 1px;
+    margin-top: -59px;
+}
